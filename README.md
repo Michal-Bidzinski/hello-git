@@ -1,5 +1,6 @@
 # hello-git
 Sample repository for learning how to use git
+
 First Header | Second Header
 ------------ | -------------
 cell 1 | cell 2
